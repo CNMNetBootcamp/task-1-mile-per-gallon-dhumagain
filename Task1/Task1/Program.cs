@@ -6,6 +6,7 @@ namespace Task1
     {
         static void Main(string[] args)
         {
+            //Good
             //setup
             double miles = 0.0;
             double gallon = 0.0;
